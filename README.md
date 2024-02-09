@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhagyesh-nimbalkar
-- 👀 I’m interested in Coding,Learning and new technologies
+- 👀 I’m interested in Coding and Learning new technologies!
 - 🌱 I’m currently learning DSA & Web Development
-- 💞️ I’m looking to collaborate on Open Source Projects.
+- 💞️ I’m looking to collaborate on an Open Source Project.
 - 📫 How to reach me Email: nimbalkarbhagyesh6979@gmail.com 
 
 <!---
